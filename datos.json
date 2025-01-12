@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {"id": "cristian", "group": 1},
+    {"id": "Napoleon", "group": 2},
+    {"id": "Mlle.Baptistine", "group": 3},
+    {"id": "Mme.Magloire", "group": 4}
+
+  ],
+  "links": [
+    {"source": "cristian", "target": "matematicas", "value": 1},
+    {"source": "cristian", "target": "ingles", "value": 1},
+    {"source": "Napoleon", "target": "español", "value": 1},
+    {"source": "Napoleon", "target": "fisica", "value": 1},
+    {"source": "Mlle.Baptistine", "target": "matematicas", "value": 1},
+    {"source": "cristian", "target": "ingles", "value": 1},
+    {"source": "Mme.Magloire", "target": "español", "value": 1},
+    {"source": "Mme.Magloire", "target": "fisica", "value": 1}
+  
+  ]
+}
